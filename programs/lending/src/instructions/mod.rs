@@ -1,8 +1,8 @@
-pub use initialize_lending::*;
-pub mod initialize_lending;
+pub use initialize::*;
+pub mod initialize;
 
-// pub use add_reaction::*;
-// pub mod add_reaction;
+// pub use deposit_collateral::*;
+// pub mod deposit_collateral;
 
 // pub use remove_reaction::*;
 // pub mod remove_reaction;
